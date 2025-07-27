@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there , the names `CodeJava`
 
 <!--
 **sjwon0368/sjwon0368** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I make Minecraft plugins/mods in Java or Denizen.
+> Or sometimes my personal websites, other website maintenance.
+> 
+> And what I want to do(when some kind of dumb idea pops up in my head).
+
+Feel free to look around and fork some of my repos!
+Thanks for stopping by!
